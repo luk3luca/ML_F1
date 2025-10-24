@@ -1,4 +1,4 @@
-Country,Location,EventName,EventDate,TrackLenght,NumTurns,RaceDistance,NumLaps,Taction,AsphaltGrip,AsphaltAbrasion,TrackEvolution,TyreStress,Braking,LateralLoad,Downforce,Soft,Medium,Hard
+Country,Location,EventName,EventDate,TrackLenght,NumTurns,RaceDistance,NumLaps,Traction,AsphaltGrip,AsphaltAbrasion,TrackEvolution,TyreStress,Braking,LateralLoad,Downforce,Soft,Medium,Hard
 Australia,Melbourne,Australian Grand Prix,2025-03-16,5.278,14,306.124,58,2,2,2,3,3,2,3,3,C5,C4,C3
 China,Shanghai,Chinese Grand Prix,2025-03-23,5.451,16,305.066,56,3,3,3,5,4,4,4,3,C4,C3,C2
 Japan,Suzuka,Japanese Grand Prix,2025-04-06,5.807,18,307.471,53,3,4,4,3,5,2,5,4,C3,C2,C1
